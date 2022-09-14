@@ -5,7 +5,7 @@ Shell that ech whatever you say and exit if U want
 
 ### Developing Programj using Vim
 
-![vim developing][./1.png "vim developing"]
+![vim developing][/1.png "vim developing"]
 
 ### Cocatenate Programm File
 
