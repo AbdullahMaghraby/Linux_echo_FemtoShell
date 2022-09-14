@@ -9,17 +9,17 @@ Shell that ech whatever you say and exit if U want
 
 ### Cocatenate Programm File
 
-! [](./2.png "Cocatenate Programm")
+![Cocatenate Programm](/2.png "Cocatenate Programm")
 
 ### Build Project using GCC Compiler
 
 
-![Build Project][./3.png "Build Project"]
+![Build Project](/3.png "Build Project")
 
 ### List of Files
 
-![list of files][./5.png " list of files"]
+![list of files](/5.png " list of files")
 
 ### Test Programm
 
-![Programm Test][./4.png "Programm Test"]
+![Programm Test](/4.png "Programm Test")
