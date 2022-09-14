@@ -5,20 +5,21 @@ Shell that ech whatever you say and exit if U want
 
 ### Developing Programj using Vim
 
-image one
+![vim developing][./1.png "vim developing"]
 
 ### Cocatenate Programm File
 
-image
+![Cocatenate Programm][./2.png "Cocatenate Programm"]
 
 ### Build Project using GCC Compiler
 
-image 2
+
+![Build Project][./3.png "Build Project"]
 
 ### List of Files
 
-image 3
+![list of files][./5.png " list of files"]
 
 ### Test Programm
 
-image 4
+![Programm Test][./4.png "Programm Test"]
